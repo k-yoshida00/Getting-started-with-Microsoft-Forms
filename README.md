@@ -1,20 +1,19 @@
 # Getting-started-with-Microsoft-Forms
-_____を始めるための、チュートリアルです。_____の基本的な使い方を学びます。
+Microsoft Formsを始めるための、チュートリアルです。Microsoft365の概要や、Formsの基本的な使い方を学びます。
 
 # 目次
-* [概要](./README.md)
-* [_____](./_____.md)
-* [_____](./_____.md)
-
+* [Microsoft 365とは](./README.md)
+* [Microsoft Forms](./_____md)
+ 
 # Microsoft 365とは
+ Office 365をはじめとしたMIcrosoftの様々なアプリを、サブスクリプション契約でりようできる。
 
 
-# _____とは
+Word,Excel,Powerpointなどのアプリを、クラウド（インターネット）に接続して利用することで、常に最新のバージョンでアプリを利用できたり、社内の人と簡単にファイル共有を行うことができる。
 
 
-# _____のチュートリアル
-次のページから、実際の_____の使い方を学びます。
+次のページから、実際のMicrosoft Formsについて学びます。
 
 
 ---
- [🏠](./README.md) | ➡️ [_____](./_____.md)
+ [🏠](./README.md) | ➡️ [Microsoft Forms](./_____.md)
