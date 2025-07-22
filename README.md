@@ -25,11 +25,11 @@ Word, Excel, PowerPointなどのアプリを、クラウド（インターネッ
 アンケートは条件分岐や入力制限などの様々な設定ができたり、
 採点やグラフ化も行うことができます。
 
-![alt text](img/セミナーアンケート画像.png)
+![alt text](img/README.md/セミナーアンケート画像.png)
 
 # Microsoft Formsのチュートリアル
 次のページから、実際のMicrosoft Formsについて学びます。
 
 
 ---
- [🏠](./00_README.md) | ➡️ [Formsにアクセスする](01_access.md)
+ [🏠](README.md) | ➡️ [Formsにアクセスする](01_access.md)
