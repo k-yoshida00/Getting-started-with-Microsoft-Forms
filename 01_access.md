@@ -2,9 +2,9 @@
 
 1.https://forms.office.com にアクセス
 
-2　![alt text](img/新しいフォーム.png)をクリック
+2 ![alt text](img/01_access.md/新しいフォーム.png)をクリック
 
-![alt text](img/スライド8画像.png)
+![alt text](img/01_access.md/スライド8画像.png)
 
 ---
- [概要](./00_README.md) ⬅️ | ➡️ [アンケートを作成する](./02_createsurvey.md)
+ [概要](README.md) ⬅️  | [🏠](README.md) | ➡️ [アンケートを作成する](./02_createsurvey.md)
