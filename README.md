@@ -2,7 +2,7 @@
 Microsoft Formsを始めるための、チュートリアルです。Microsoft365の概要や、Formsの基本的な使い方を学びます。
 
 # 目次
-* [概要](./00_README.md)
+* [概要](./README.md)
 * [Formsにアクセスする](./01_access.md)
 * [アンケートを作成する](02_createsurvey.md)
 * [アンケートの設定](03_setting.md)
